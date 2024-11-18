@@ -1,0 +1,18 @@
+# Console Calculator in Java
+
+A simple console-based calculator built in Java that performs basic arithmetic operations: addition, subtraction, multiplication, and division. The program takes two integer inputs from the user and displays the results of the selected operations.
+
+## Features:
+- **Addition**: Adds two integers.
+- **Subtraction**: Subtracts the second integer from the first.
+- **Multiplication**: Multiplies two integers.
+- **Division**: Divides the first integer by the second (integer division).
+
+## How to Use:
+1. Clone this repository to your local machine.
+2. Open the project in any Java IDE or a text editor.
+3. Compile and run the `Main.java` file.
+4. Input two integers when prompted.
+5. View the results of the four arithmetic operations.
+
+## Example:
